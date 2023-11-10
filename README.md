@@ -10,7 +10,7 @@ Untuk memakai program ini, kita harus install browser untuk inject automatis kod
 
 * Chromium(Chrome, Opera, Edge):  [Install Scripty](https://chrome.google.com/webstore/detail/scripty-javascript-inject/milkbiaeapddfnpenedfgbfdacpbcbam)
 * Firefox : [Install JS Injector](https://addons.mozilla.org/en-US/firefox/addon/my-js-injector/)
-* Safari : Not supported (if you're using safari pls change browser)
+* Safari : Not supported ~~(if you're using safari pls change browser)~~
 
 ### Executing program
 
@@ -23,9 +23,8 @@ Untuk memakai program ini, kita harus install browser untuk inject automatis kod
 
 Jika kalian tidak ingin semua pilihan menjadi 'Sangat puas', maka dapat diubah di 
 
-```
+```javascript
 let multi = 'Sangat puas';
-
 ```
 
 ## Bantuan
